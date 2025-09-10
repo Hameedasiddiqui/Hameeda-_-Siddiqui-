@@ -86,4 +86,9 @@ Disadvantages / Challenges
 ⚠ Initial setup of Angular + Spring Boot can be complex. ⚠ Requires handling CORS for API communication. ⚠ PostgreSQL setup needed on local/remote environment.
 
 Conclusion
-The Student Manager Project is a full-stack solution for managing student data effectively. It demonstrates proper integration of Angular frontend with Spring Boot backend and PostgreSQL database using MVC architecture. This project can be extended to include authentication, role-based access, dashboards, and reports for real-world use.
+The Student Manager Project is a full-stack solution for managing student data effectively. It demonstrates proper integration of Angular frontend with Spring Boot backend and PostgreSQL database using MVC architecture. This project can be extended to include authentication, role-based access, dashboards, and reports for real-world use. 
+
+Name:Hameeda Jameel Siddiqui
+email:siddiquihameeda@gmail.com
+collage:Matoshri pratishthan 
+mobile: 9322712768
